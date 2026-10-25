@@ -22,11 +22,7 @@ STDOLE2.TLB
 COMCAT.DLL  
 dx7vb.dll  
 
-To play control the plane with keyboard buttons:
+To control the plane with keyboard buttons:
 
 A for firing  
 S for bomb    
-
-Cheers!
-
-Imam Hossain (emamhd@gmail.com)
